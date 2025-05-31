@@ -1,4 +1,8 @@
-Trabajo Final de Grado (TFG) para el Grado en Economía con título `Machine learning financiero aplicado a la predicción del EUR/USD` en la Universidad Internacional de La Rioja (UNIR), Faculultad de Economía y Empresa.
+Repositorio del Trabajo de Fin de Grado (TFG): `Machine learning financiero aplicado a la predicción del EUR/USD`
+
+<br>
+
+TFG para el Grado en Economía en la Universidad Internacional de La Rioja (UNIR), Facultad de Economía y Empresa.
 
 Autor: Iñaki Gangutia Arrázola
 
